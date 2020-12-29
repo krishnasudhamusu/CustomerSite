@@ -1,0 +1,2 @@
+This is Dashboard for customer management Site created with django web framework . where admin can view orders, update orders , delete orders and edit particular orders . 
+Admin also can create a new customer and check orders placed my particular customer and other admin fucntions.
